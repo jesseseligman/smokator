@@ -3,6 +3,12 @@ Note: This app was intended for use on mobile browsers. It looks best on a deskt
 ##What is it?
 Smokator is mobile web application that seeks to improve the process of acquiring cigarettes from strangers in a bar.
 
+###Cigarette bummer user flow
+[![Smokator](http://i.imgur.com/8SKXgcVl.png)] (https://vimeo.com/181873003 "Smokator Demo, Bummer use case - Click to Watch!")
+
+###Cigarette giver user flow
+[![Smokator](http://i.imgur.com/RujSuQ2l.png )] (https://vimeo.com/181868561 "Smokator Demo, Giver use case - Click to Watch!")
+
 ##Who has this problem?
 Many people who are casual smokers who don't carry cigarettes have the problem of not having cigarettes on hand when they want them.
 
